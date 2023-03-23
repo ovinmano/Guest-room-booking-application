@@ -100,7 +100,7 @@ function Bookingscreen() {
                         </div>
                         <div style={{ textAlign: 'right' }}>
                             <b>
-                                <h1>Amount : </h1>
+                                <h1>Amount</h1>
                                 <hr />
                                 <p>Total days : {totaldays}</p>
                                 <p>Rent Per day : {room.rentperday}</p>
